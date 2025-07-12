@@ -98,7 +98,7 @@ I'm **Jit Mondal**, a Computer Science (2025) student who loves building clean, 
 ## 🤝 Let's Connect!
 
 - 🌐 [Portfolio](https://my-portfolio-7z99.vercel.app/)
-- 🧾 [Resume]() <!-- Replace with actual resume link -->
+- 🧾 [Resume](https://github.com/Logan-Wolverine2309/Logan-Wolverine2309/blob/main/Jit_CV.pdf) <!-- Replace with actual resume link -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/jit-mondal-b8a062373/)
 - ✉️ Email: `jai9674yaaa@gmail.com`
 
