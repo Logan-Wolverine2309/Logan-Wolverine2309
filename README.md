@@ -36,7 +36,7 @@ I'm **Jit Mondal**, a Computer Science (2025) student who loves building clean, 
 
 ---
 
-### 🍽️ 2. Restaurant / Food Delivery App (Mock Zomato UI)
+### 🍽️ 2. Restaurant / Food Delivery App 
 
 > Inspired by Zomato/Swiggy, this web app includes:
 - 📋 Dish detail pages
