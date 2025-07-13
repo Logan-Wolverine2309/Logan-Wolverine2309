@@ -1,27 +1,8 @@
 <!-- ✨ Starry animated background (optional visual) -->
-<div style="text-align:center; margin: 20px 0;">
-  <div style="
-    display: inline-block;
-    padding: 10px;
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease;
-  "
-  onmouseover="this.style.transform='scale(1.03)'"
-  onmouseout="this.style.transform='scale(1)'"
-  >
-    <img 
-      src="https://i.giphy.com/media/l0HlSNOxJB956qwfK/giphy.webp" 
-      alt="Funny Gif"
-      style="width: 280px; height: auto; border-radius: 8px;"
-    />
-    <p style="margin: 8px 0 0; font-size: 0.9rem; color: #666;">
-      When the code finally works 😅
-    </p>
-  </div>
-</div>
+<p align="center">
+  <img src="https://i.giphy.com/media/l0HlSNOxJB956qwfK/giphy.webp" width="100%" height="150px"/>
+</p> 
+made this unique
 
 
 
