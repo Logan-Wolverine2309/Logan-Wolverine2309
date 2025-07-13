@@ -1,7 +1,17 @@
 <!-- ✨ Starry animated background (optional visual) -->
-<p align="center">
-  <img src="https://i.giphy.com/media/l0HlSNOxJB956qwfK/giphy.webp" width="100%" height="150px"/>
-</p>
+<div style="text-align:center; margin: 30px 0;">
+  <div style="display: inline-block; box-shadow: 0 10px 25px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+    <img 
+      src="https://i.giphy.com/media/l0HlSNOxJB956qwfK/giphy.webp" 
+      alt="Funny Animated Gif" 
+      style="width: 100%; max-width: 600px; height: auto; display: block; border-radius: 12px;" 
+    />
+  </div>
+  <p style="margin-top: 12px; font-size: 1.2rem; font-weight: 500; color: #555;">
+    😄 A touch of humor to brighten your day!
+  </p>
+</div>
+
 
 <h1 align="center">🌟 Hi there, I'm <span style="color:#00FFFF;">Jit Mondal</span> 👋</h1>
 
