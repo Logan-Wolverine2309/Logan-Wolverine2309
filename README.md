@@ -1,16 +1,28 @@
 <!-- ✨ Starry animated background (optional visual) -->
-<div style="text-align:center; margin: 30px 0;">
-  <div style="display: inline-block; box-shadow: 0 10px 25px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden;">
+<div style="text-align:center; margin: 20px 0;">
+  <div style="
+    display: inline-block;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+  "
+  onmouseover="this.style.transform='scale(1.03)'"
+  onmouseout="this.style.transform='scale(1)'"
+  >
     <img 
       src="https://i.giphy.com/media/l0HlSNOxJB956qwfK/giphy.webp" 
-      alt="Funny Animated Gif" 
-      style="width: 100%; max-width: 600px; height: auto; display: block; border-radius: 12px;" 
+      alt="Funny Gif"
+      style="width: 280px; height: auto; border-radius: 8px;"
     />
+    <p style="margin: 8px 0 0; font-size: 0.9rem; color: #666;">
+      When the code finally works 😅
+    </p>
   </div>
-  <p style="margin-top: 12px; font-size: 1.2rem; font-weight: 500; color: #555;">
-    😄 A touch of humor to brighten your day!
-  </p>
 </div>
+
 
 
 <h1 align="center">🌟 Hi there, I'm <span style="color:#00FFFF;">Jit Mondal</span> 👋</h1>
